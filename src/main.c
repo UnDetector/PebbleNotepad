@@ -45,7 +45,7 @@
 	
 //Config this to fit your needs. 
 // Remember to add the resources and change NUM_NOTES 
-#define NUM_NOTES 4
+#define NUM_NOTES 2
 #define FONT_TYPE SMALL
 #define PIXELS_PER_CLICK 100
 #define PIXELS_PER_LONG_CLICK 6
